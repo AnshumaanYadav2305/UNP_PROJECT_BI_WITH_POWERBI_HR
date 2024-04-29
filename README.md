@@ -8,5 +8,6 @@ Key Insights:
 2. Collaborated in understanding the requirements, what all can be done for better understanding of the data.
 3. I was involved in Exploring the Data, Identifying Risk Factors, Visualizing Insights with accurate analysis and reporting.
 
-PBIX link: https://drive.google.com/file/d/1Wa_urikmJY1ckJYW3qygNCmI9KUpL562/view?usp=sharing
-PDF link: https://drive.google.com/file/d/12q5fv290x3Bew-RSSzOBIzKY-ivzej7U/view?usp=sharing
+PBIX link: https://drive.google.com/file/d/1D_-dGdqcf1mKQwh7fzHYKQmy5qCGwGXI/view?usp=sharing
+PDF link: https://drive.google.com/file/d/15NOvR4KhmrL2u2sv1agB1vXgg7kGUAr1/view?usp=sharing
+PPT link: https://drive.google.com/file/d/1SkjhrjguZiRgU6j5RCBn3i9xCTLunTrR/view?usp=sharing
